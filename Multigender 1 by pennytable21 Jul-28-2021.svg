@@ -1,9 +1,7 @@
-<html>
-  <svg width="5000" height="3000">
-    <rect fill="#9966CC" x="0" y="0" width="5000" height="600"/>
-    <rect fill="#E6ACE6" x="0" y="600" width="5000" height="600"/>
-    <rect fill="#FFF480" x="0" y="1200" width="5000" height="600"/>
-    <rect fill="#B5E673" x="0" y="1800" width="5000" height="600"/>
-    <rect fill="#66CC66" x="0" y="2400" width="5000" height="600"/>
-  </svg>
-</html>
+<svg version="2" xmlns="http://www.w3.org/2000/svg" width="5000" height="3000">
+  <rect fill="#9966CC" x="0" y="0" width="5000" height="600"/>
+  <rect fill="#E6ACE6" x="0" y="600" width="5000" height="600"/>
+  <rect fill="#FFF480" x="0" y="1200" width="5000" height="600"/>
+  <rect fill="#B5E673" x="0" y="1800" width="5000" height="600"/>
+  <rect fill="#66CC66" x="0" y="2400" width="5000" height="600"/>
+</svg>
