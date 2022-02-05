@@ -14,7 +14,7 @@ All you need to do is:
 Now you have an SVG of that flag. You can use https://ezgif.com/svg-to-png to make it into a PNG of any size you wish.</p>
 * If you want to make a PNG of a flag on this Github, you can click "Raw" and copy that link, then paste it into [that website](https://ezgif.com/svg-to-png).
 
-#FAQ?
+# FAQ?
 * I don't have any control over what order the folders or files display in. I believe they automatically sort alphabetically.
 * You can request a specific flag to be recreated as an SVG and uploaded to the repository. Please contact me on Discord or Twitter with the following:
 1. The source, preferrably a post the creator made or submitted, or some kind of documentation its creation
