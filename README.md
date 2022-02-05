@@ -13,7 +13,15 @@ All you need to do is:
 
 Now you have an SVG of that flag. You can use https://ezgif.com/svg-to-png to make it into a PNG of any size you wish.</p>
 * If you want to make a PNG of a flag on this Github, you can click "Raw" and copy that link, then paste it into [that website](https://ezgif.com/svg-to-png).
-* If you would like to request a specific flag to be created as an SVG, please contact me on Twitter or Discord. When requesting a flag please include the source and a clear image that I can pull colors from, or provide me the hexcodes.
-* I don't really have any control over what order the folders display in, if it can be changed I don't know how. I think they sort alphabetically.
-* If you are concerned about a flag being missing, please consider that I may not have gotten around to making it, I may not have been able to find a proper source for it, or I simply don't know about the flag. If you want to me to make a flag sooner please contact me with the information listed above.
-* I will not be adding any flags that were made to be exclusionary or bigoted.
+
+#FAQ?
+* I don't have any control over what order the folders or files display in. I believe they automatically sort alphabetically.
+* You can request a specific flag to be recreated as an SVG and uploaded to the repository. Please contact me on Discord or Twitter with the following:
+1. The source, preferrably a post the creator made or submitted, or some kind of documentation its creation
+2. A clear image to get the colors from (digital, not a photo), a list of colors the creator provided, or the hexcodes if you have them. 
+* A flag may be missing because:
+1. I haven't gotten around to converting it yet
+2. I haven't been able to properly source it
+3. I don't know the flag exists
+* If you want to me to make a flag sooner, please contact me with the information listed above. Sources are especially hard for me to find.
+* I will not be adding any flags that were made to be exclusionary, bigoted, or hateful.
