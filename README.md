@@ -26,3 +26,4 @@ Now you have an SVG of that flag. You can use https://ezgif.com/svg-to-png to ma
 * If you want to me to make a flag sooner, please contact me with the information listed above. Sources are especially hard for me to find.
 * I will not be adding any flags that were made to be exclusionary, bigoted, or hateful.
 * I will not be adding any complex flags as they are beyond my skill level. I know how to make circles and I am planning to learn other basic shapes. I might in the future use Inkscape to vectorize symbols from [pride-flags](https://www.deviantart.com/pride-flags/gallery), but uh. I tried the carnation and ummmm it is basically extremely long in code.
+* https://www.deviantart.com/pride-flags/art/MOGAI-symbols-and-such-Custom-Shapes-CSH-file-880644663 There are these though. Might see if I can use these.
